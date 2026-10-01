@@ -15,5 +15,11 @@
     }
   ],
   "width": 861,
-  "height": 1351
+  "height": 1351,
+  "sizes": [
+    {
+      "width": 216,
+      "height": 338
+    }
+  ]
 }
