@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://elshand12.github.io/phantasmion3/manifests/phant_1-pyr.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Phantasmion - Image 1 (Pyramid)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://elshand12.github.io/phantasmion3/manifests/phant_1-pyr/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Phantasmion - Image 1 (Pyramid)"
+        ]
+      },
+      "width": 775,
+      "height": 1300,
+      "items": [
+        {
+          "id": "https://elshand12.github.io/phantasmion3/manifests/phant_1-pyr/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://elshand12.github.io/phantasmion3/manifests/phant_1-pyr/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://elshand12.github.io/phantasmion3/images/phant_1-pyr/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 775,
+                "height": 1300,
+                "service": [
+                  {
+                    "id": "https://elshand12.github.io/phantasmion3/images/phant_1-pyr",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://elshand12.github.io/phantasmion3/manifests/phant_1-pyr/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
