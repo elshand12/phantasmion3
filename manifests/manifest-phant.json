@@ -13,14 +13,7 @@
       "type": "Image",
       "format": "image/jpeg",
       "width": 194,
-      "height": 325,
-      "service": [
-        {
-          "id": "https://elshand12.github.io/phantasmion3/images/phant_1-pyr",
-          "type": "ImageService3",
-          "profile": "level0"
-        }
-      ]
+      "height": 325
     }
   ],
   "items": [
@@ -40,14 +33,7 @@
           "type": "Image",
           "format": "image/jpeg",
           "width": 194,
-          "height": 325,
-          "service": [
-            {
-              "id": "https://elshand12.github.io/phantasmion3/images/phant_1-pyr",
-              "type": "ImageService3",
-              "profile": "level0"
-            }
-          ]
+          "height": 325
         }
       ],
       "items": [
