@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://elshand12.github.io/phantasmion3/images/phant_5-pyr/phant_5-pyr",
+  "id": "https://elshand12.github.io/phantasmion3/images/phant_5-pyr",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",
